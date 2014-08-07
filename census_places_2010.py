@@ -1,6 +1,6 @@
 import re, urllib, time, zipfile, os
 
-download_location = '/Users/danielmsheehan/Desktop/places/'
+download_location = 'DOWNLOAD LOCATION'
 #EXAMPLE for Mac download_location = '/Volumes/Echo/GIS/data/census/2000/blocks/'
 
 stop_time = 3
